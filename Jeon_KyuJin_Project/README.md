@@ -20,10 +20,9 @@ Hugging Face의 한국어 요약 모델 **KoBART(digit82/kobart-summarization)**
 ## 프로젝트 구조
 
 Jeon_KyuJin_Project/
-│
-├── summarizer.py # 요약 기능을 수행하는 메인 프로그램
-├── requirements.txt # 필요한 패키지 목록
-└── README.md # 프로젝트 설명 문서
+summarizer.py # 요약 기능을 수행하는 메인 프로그램
+requirements.txt # 필요한 패키지 목록
+README.md # 프로젝트 설명 문서
 
 
 ---
